@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-s6jm8y.grisfo.com/sitemap.xml
